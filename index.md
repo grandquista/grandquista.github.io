@@ -9,4 +9,8 @@ layout: default
 
 # Projects
 
-[Repo](https://github.com/grandquista/CaaSbootstrap) [CaaS](https://caasbootstrap.appspot.com) microservice intended to bootstrap itself into a compiler.
+[Repo](https://github.com/grandquista/chimera) Python3 interpreter in C++.
+
+[Repo](https://github.com/grandquista/Lua-ReQL) RethinkDB driver for luarocks environment.
+
+[Repo](https://github.com/grandquista/CaaSbootstrap) microservice intended to bootstrap itself into a compiler.

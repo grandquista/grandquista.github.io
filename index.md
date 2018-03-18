@@ -9,12 +9,12 @@ layout: default
 
 # Projects
 
-[Repo](https://github.com/grandquista/chimera) Python3 interpreter in C++.
+[chimera](https://github.com/grandquista/chimera) Python3 interpreter in C++.
 
-[Repo](https://github.com/grandquista/Lua-ReQL) RethinkDB driver for luarocks environment.
+[Lua-ReQL](https://github.com/grandquista/Lua-ReQL) RethinkDB driver for luarocks environment.
 
-[Repo](https://github.com/grandquista/CaaSbootstrap) microservice intended to bootstrap itself into a compiler.
+[CaaSbootstrap](https://github.com/grandquista/CaaSbootstrap) microservice intended to bootstrap itself into a compiler.
 
-[Repo](https://github.com/grandquista/primes) Sieve of Eratosthenes implemented in golang.
+[primes](https://github.com/grandquista/primes) Sieve of Eratosthenes implemented in golang.
 
-[Repo](https://github.com/grandquista/glowing-chainsaw) markov chain compression algorithm to practice reversible transformations.
+[glowing-chainsaw](https://github.com/grandquista/glowing-chainsaw) markov chain compression algorithm to practice reversible transformations.

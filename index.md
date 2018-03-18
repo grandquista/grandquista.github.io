@@ -15,4 +15,6 @@ layout: default
 
 [Repo](https://github.com/grandquista/CaaSbootstrap) microservice intended to bootstrap itself into a compiler.
 
-[Repo](https://github.com/grandquista/glowing-chainsaw) markov chain compression algorithm to practice reversible .
+[Repo](https://github.com/grandquista/primes) Sieve of Eratosthenes implemented in golang.
+
+[Repo](https://github.com/grandquista/glowing-chainsaw) markov chain compression algorithm to practice reversible transformations.

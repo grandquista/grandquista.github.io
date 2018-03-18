@@ -14,3 +14,5 @@ layout: default
 [Repo](https://github.com/grandquista/Lua-ReQL) RethinkDB driver for luarocks environment.
 
 [Repo](https://github.com/grandquista/CaaSbootstrap) microservice intended to bootstrap itself into a compiler.
+
+[Repo](https://github.com/grandquista/glowing-chainsaw) markov chain compression algorithm to practice reversible .

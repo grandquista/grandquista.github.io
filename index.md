@@ -18,3 +18,13 @@ layout: default
 [primes](https://github.com/grandquista/primes) Sieve of Eratosthenes implemented in golang.
 
 [glowing-chainsaw](https://github.com/grandquista/glowing-chainsaw) markov chain compression algorithm to practice reversible transformations.
+
+# Posts
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>

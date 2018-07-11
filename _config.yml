@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Adam Grandquist
+title: Polyglot Mutations
 email: grandquista@gmail.com
 description: >
   Welcome to the internet home of Adam Grandquist.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://grandquista.github.io"
+url: "https://grandquista.io"
 twitter_username: grandquista
 github_username:  grandquista
 

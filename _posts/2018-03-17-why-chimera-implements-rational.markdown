@@ -1,9 +1,11 @@
 ---
-layout: default
+layout: layout
 title: "Why chimera implements Rational"
 date: 2018-03-17 16:20:00 -0700
 categories: chimera python learning design
 ---
+
+[Home](/) [Personal](/about/)
 
 I have been implementing a Python3 interpreter from using the cPython spec [chimera](https://github.com/grandquista/chimera). It differs from the spec in a few places, and so this is the first post discussing how it differs and a little of why.
 

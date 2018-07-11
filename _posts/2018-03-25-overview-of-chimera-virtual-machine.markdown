@@ -1,9 +1,11 @@
 ---
-layout: default
+layout: layout
 title: "Overview of chimera virtual machine"
 date: 2018-04-04 18:00:00 -0700
 categories: chimera python learning design
 ---
+
+[Home](/) [Personal](/about/)
 
 I have been implementing a Python3 interpreter from using the cPython spec [chimera](https://github.com/grandquista/chimera). In this post I will be looking at the high level status and intended direction around the virtual machine structures.
 

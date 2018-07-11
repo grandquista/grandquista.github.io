@@ -1,8 +1,10 @@
 ---
-layout: default
-title: About
+layout: layout
+title: Who I Am
 permalink: /about/
 ---
+
+[Home](/)
 
 Python developer. Every problem looks like a place to use a Python solution. This includes writing code. I have used Python to generate code for most of the languages I know, and transpilers commonly used Regex to define transformations. All of my languages are self taught, and I am passionate about seeing technology provide new ways for us to express our individuality.
 

@@ -25,7 +25,7 @@ github_username:  grandquista
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-tactile
-gems:
+plugins:
   - jekyll-feed
   - jekyll-sitemap
 exclude:

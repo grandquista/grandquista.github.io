@@ -5,7 +5,7 @@
 layout: default
 ---
 
-[about]: (/about)
+[Personal](/about)
 
 # Projects
 
@@ -28,3 +28,4 @@ layout: default
     </li>
   {% endfor %}
 </ul>
+

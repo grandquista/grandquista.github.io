@@ -9,13 +9,28 @@ permalink: /resume/
 # Adam Grandquist
 Software Developer
 
-| location | cell |
-| :---: | :---: |
-| Seattle, WA  | (971) 202-6859 |
-
-| email | linkedin | GitHub | Portfolio |
-| :---: | :---: | :---: | :---: |
-| grandquista@gmail.com | linkedin.com/in/grandquista | github.com/grandquista | grandquista.io |
+<table>
+  <tr>
+    <td>location</td>
+    <td>cell</td>
+  </tr>
+  <tr>
+    <td>Seattle, WA</td>
+    <td>(971) 202-6859</td>
+  </tr>
+  <tr>
+    <td>email</td>
+    <td>LinkedIn</td>
+    <td>GitHub</td>
+    <td>portfolio</td>
+  </tr>
+  <tr>
+    <td>grandquista@gmail.com</td>
+    <td>linkedin.com/in/grandquista</td>
+    <td>github.com/grandquista</td>
+    <td>grandquista.io</td>
+  </tr>
+</table>
 
 Python developer with a background in distributed system deployment as a controls engineer with two platforms being utilized in the market today. Proficient in adapting to new environments and changing specifications.
 
@@ -32,7 +47,7 @@ _Lua-ReQL_, April 2018 to present - github.com/grandquista/Lua-ReQL
 * Technology: Lua, Luarocks, Moonscript, TDD
 
 _RethinkDB_, Oct 2015 to present - github.com/rethinkdb/rethinkdb
-* Open source realtime No-SQL distributed database with 10k stars, owner of the open source organization
+* Open source realtime No-SQL distributed database with 10k stars, owner of open organization
 * Technologies: Python3, Python2, Ruby, C++, Javascript
 * Added support for Python3 to Python driver
 * Implemented extensible Python ORM support through JSON

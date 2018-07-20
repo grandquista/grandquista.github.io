@@ -9,15 +9,18 @@ permalink: /resume/
 # Adam Grandquist
 Software Developer
 
-<table>
+<table style="margin: 5% auto">
   <tr>
-    <td>location</td>
-    <td>cell</td>
+    <td style="margin: 5% auto">location</td>
+    <td style="margin: 5% auto">cell</td>
   </tr>
   <tr>
-    <td>Seattle, WA</td>
-    <td>(971) 202-6859</td>
+    <td style="margin: 5% auto">Seattle, WA</td>
+    <td style="margin: 5% auto">(971) 202-6859</td>
   </tr>
+</table>
+
+<table style="margin: 5% auto">
   <tr>
     <td>email</td>
     <td>LinkedIn</td>

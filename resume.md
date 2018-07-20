@@ -16,22 +16,16 @@ Software Developer
   </tr>
   <tr>
     <td style="margin: 5% auto">Seattle, WA</td>
-    <td style="margin: 5% auto">(971) 202-6859</td>
+    <td style="margin: 5% auto"><a href="tel:+19712026859">(971) 202-6859</a></td>
   </tr>
 </table>
 
 <table style="margin: 5% auto">
   <tr>
-    <td>email</td>
-    <td>LinkedIn</td>
-    <td>GitHub</td>
-    <td>portfolio</td>
-  </tr>
-  <tr>
-    <td>grandquista@gmail.com</td>
-    <td>linkedin.com/in/grandquista</td>
-    <td>github.com/grandquista</td>
-    <td>grandquista.io</td>
+    <td><a href="mailto:grandquista@gmail.com">email</a></td>
+    <td><a href="https://linkedin.com/in/grandquista">LinkedIn</a></td>
+    <td><a href="https://github.com/grandquista">GitHub</a></td>
+    <td><a href="https://grandquista.io">portfolio</a></td>
   </tr>
 </table>
 

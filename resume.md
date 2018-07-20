@@ -38,20 +38,18 @@ Software Developer
 Python developer with a background in distributed system deployment as a controls engineer with two platforms being utilized in the market today. Proficient in adapting to new environments and changing specifications.
 
 __TECHNICAL SKILLS__
-Languages: Python, C++, C, Lua, Swift, Rust, Go, Javascript
-Tools: Git, Atom, Xcode, Vim, Docker
-Operating Systems: OSX, Ubuntu, Alpine, Rasbian, Windows
+* Languages: Python, C++, C, Lua, Swift, Rust, Go, Javascript
+* Tools: Git, Atom, Xcode, Vim, Docker
 
 __EXPERIENCE__
 _Lua-ReQL_, April 2018 to present - github.com/grandquista/Lua-ReQL
 * RethinkDB driver for Lua environment in production use across the globe
-* Technologies: Lua, Git, Atom, OSX
+* Technologies: Lua, Luarocks, Moonscript, TDD, Atom, OSX
 * Customer facing software maintenance
-* Technology: Lua, Luarocks, Moonscript, TDD
 
 _RethinkDB_, Oct 2015 to present - github.com/rethinkdb/rethinkdb
 * Open source realtime No-SQL distributed database with 10k stars, owner of open organization
-* Technologies: Python3, Python2, Ruby, C++, Javascript
+* Technologies: Python3, Python2, Ruby, C++, Javascript, Git
 * Added support for Python3 to Python driver
 * Implemented extensible Python ORM support through JSON
 * Improved automation of driver implementation in new languages
@@ -65,13 +63,13 @@ _RLSM_, Nov 2015 - June 2018 | Controls Engineer
 * Coordinated component ordering and shipping to sites
 
 _RLSM_, Aug 2011 - Nov 2014 | Engineer Assistant
-* Technologies: Javacript
+* Technologies: Javacript, Linux
 * Designed and tested web interfaces for end users
 * Collaborated with engineers on specification scheduling
 * Communicated with client to ensure expected implementation matched specification
 
 _Silver Spring Networks_, June 2010 - Aug 2010 | Manufacturing Intern
-* Technologies: Python, C/C++
+* Technologies: Windows, Python, C/C++
 * Interacted with 3rd party APIs for feature discovery
 * Developed Python CLIs to edit device mariage configuration files
 

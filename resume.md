@@ -39,15 +39,15 @@ Python developer with a background in distributed system deployment as a control
 
 ## EXPERIENCE
 
-_Lua-ReQL_, April 2018 to present - github.com/grandquista/Lua-ReQL
+_Lua-ReQL_, April 2018 to present - github.com/grandquista/Lua-ReQL | Product Manager
 
 * RethinkDB driver for Lua environment in production use across the globe
 * Technologies: Lua, Luarocks, Moonscript, TDD, Atom, OSX
 * Customer facing software maintenance
 
-_RethinkDB_, Oct 2015 to present - github.com/rethinkdb/rethinkdb
+_RethinkDB_, Oct 2015 to present - github.com/rethinkdb/rethinkdb | Technical Product Architect
 
-* Open source realtime No-SQL distributed database with 10k stars, owner of open organization
+* Open source realtime No-SQL distributed database with 10k stars
 * Technologies: Python3, Python2, Ruby, C++, Javascript, Git
 * Added support for Python3 to Python driver
 * Implemented extensible Python ORM support through JSON

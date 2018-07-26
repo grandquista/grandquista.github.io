@@ -39,10 +39,10 @@ Python developer with a background in distributed system deployment as a control
 
 ## EXPERIENCE
 
-_Lua-ReQL_, April 2018 to present - github.com/grandquista/Lua-ReQL | Product Manager
+_Lua-ReQL_, Aug 2014 to present - github.com/grandquista/Lua-ReQL | Product Manager
 
 * RethinkDB driver for Lua environment in production use across the globe
-* Technologies: Lua, Luarocks, Moonscript, TDD, Atom, OSX
+* Technologies: Lua, Luarocks, Moonscript, TDD, Git, Atom, OSX
 * Customer facing software maintenance
 
 _RethinkDB_, Oct 2015 to present - github.com/rethinkdb/rethinkdb | Technical Product Architect
@@ -77,21 +77,21 @@ _Silver Spring Networks_, June 2010 - Aug 2010 | Manufacturing Intern
 
 ## PROJECTS
 
-_Chimera_, March 2018 - github.com/grandquista/chimera
+_Chimera_, March 2018 - github.com/grandquista/chimera | SWE
 
 * Python3 interpreter implementation
 * Technology: C++, Python3, Cmake, Fuzz testing, Fish scripting
 
 ## EDUCATION
 
-_Code Fellows_, May 2018
+_Code Fellows_, May 2018 | Student
 
 * Certificate - Advanced Software Development in Python
 
-_Chemeketa_, Salem, OR, Aug 2014 - June 2015
+_Chemeketa_, Salem, OR, Aug 2014 - June 2015 | Student
 
 * Associates - Coursework completed
 
-_John Brown University_, Siloam Springs, AR, Aug 2008 - Dec 2010
+_John Brown University_, Siloam Springs, AR, Aug 2008 - Dec 2010 | Student
 
 * BS EE - Coursework completed

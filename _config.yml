@@ -30,7 +30,9 @@ plugins:
   - jekyll-sitemap
 defaults:
   - scope:
-      path: ".well-known"
+      path: .well-known
+include:
+  - .well-known
 exclude:
   - Gemfile
   - Gemfile.lock

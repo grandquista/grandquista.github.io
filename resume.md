@@ -12,10 +12,6 @@ Software Developer
 
 <table style="margin: 5% auto">
   <tr>
-    <td style="margin: 5% auto">location</td>
-    <td style="margin: 5% auto">cell</td>
-  </tr>
-  <tr>
     <td style="margin: 5% auto">Seattle, WA</td>
     <td style="margin: 5% auto"><a href="tel:+19712026859">(971) 202-6859</a></td>
   </tr>
@@ -23,10 +19,10 @@ Software Developer
 
 <table style="margin: 5% auto">
   <tr>
-    <td><a href="mailto:grandquista@gmail.com">email</a></td>
+    <td><a href="mailto:{{ site.email }}">email</a></td>
     <td><a href="https://linkedin.com/in/grandquista">LinkedIn</a></td>
-    <td><a href="https://github.com/grandquista">GitHub</a></td>
-    <td><a href="https://grandquista.io">portfolio</a></td>
+    <td><a href="https://github.com/{{ site.github_username }}">GitHub</a></td>
+    <td><a href="{{ site.url }}">portfolio</a></td>
   </tr>
 </table>
 
@@ -39,13 +35,13 @@ Python developer with a background in distributed system deployment as a control
 
 ## EXPERIENCE
 
-_Lua-ReQL_, Aug 2014 to present - github.com/grandquista/Lua-ReQL | Product Manager
+_Lua-ReQL_, Aug 2014 to present - [github.com/grandquista/Lua-ReQL] | Product Manager
 
 * RethinkDB driver for Lua environment in production use across the globe
 * Technologies: Lua, Luarocks, Moonscript, TDD, Git, Atom, OSX
 * Customer facing software maintenance
 
-_RethinkDB_, Oct 2015 to present - github.com/rethinkdb/rethinkdb | Technical Product Architect
+_RethinkDB_, Oct 2015 to present - [github.com/rethinkdb/rethinkdb] | Technical Product Architect
 
 * Open source realtime No-SQL distributed database with 10k stars
 * Technologies: Python3, Python2, Ruby, C++, Javascript, Git
@@ -77,7 +73,7 @@ _Silver Spring Networks_, June 2010 - Aug 2010 | Manufacturing Intern
 
 ## PROJECTS
 
-_Chimera_, March 2018 - github.com/grandquista/chimera | SWE
+_Chimera_, March 2018 - [github.com/grandquista/chimera] | SWE
 
 * Python3 interpreter implementation
 * Technology: C++, Python3, Cmake, Fuzz testing, Fish scripting

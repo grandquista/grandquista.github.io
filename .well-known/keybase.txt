@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/grandquista
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://grandquista.io
+  * I am grandquista (https://keybase.io/grandquista) on keybase.
+  * I have a public key ASAwhDFoLNrZjgwMpqmT3C6Q-vTOTevWZ6wpU7ydcNoO5wo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120d0026a9c72910c3b915b2e93d43a29d36b05e16e9adf6d588e462d1b0519c3b20a",
+      "host": "keybase.io",
+      "kid": "0120308431682cdad98e0c0ca6a993dc2e90faf4ce4debd667ac2953bc9d70da0ee70a",
+      "uid": "9be7f8cb279a1dc2c729a10597d53919",
+      "username": "grandquista"
+    },
+    "merkle_root": {
+      "ctime": 1532882578,
+      "hash": "36c023dc56bd8dc646a59d9dcc10c9c0dcdd47ad603a6b2e86b476acfe9ed935c8c02034a0659d66ccbb35a9381f7600f80fa053e38ea2f3476a776729397792",
+      "hash_meta": "8f6e3292127ae6ed803fd4564be890e74ba81271cd01d73e8c85908064392288",
+      "seqno": 3352263
+    },
+    "service": {
+      "entropy": "s/8Y+sv6PZPdJ6hsvn59JJBf",
+      "hostname": "grandquista.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.3.0"
+  },
+  "ctime": 1532882614,
+  "expire_in": 504576000,
+  "prev": "5b66c7663d32cfe98061c79751aa0e3782956b150b38638c4e28c3235a457708",
+  "seqno": 28,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgMIQxaCza2Y4MDKapk9wukPr0zk3r1mesKVO8nXDaDucKp3BheWxvYWTESpcCHMQgW2bHZj0yz+mAYceXUaoON4KVaxULOGOMTijDI1pFdwjEIOw5SyeIqRFeDiyt/Wt7U/DFo9X4OS6bvOCZ50DGB5hFAgHCo3NpZ8RA1x4/LZ5hZDWN7NsS1EdUFN/i+Wrc9PAcavikm1450fmBuwS+CvYhsCxkakXi/zlhIjD762GZTXD5GKsvgKYzDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJu04bxrD+vkNSsGBve9JeLgM8PyyireN3wAM9xU4Se2o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/grandquista
+
+==================================================================
